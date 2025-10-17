@@ -1,5 +1,9 @@
 [package]
+<<<<<<< HEAD
 name = "temperature_project"
+=======
+name = "smartenergy"
+>>>>>>> a753a6f997b761de4932e7d63b3e17c659a43058
 version = "0.1.0"
 edition = "2024"
 
